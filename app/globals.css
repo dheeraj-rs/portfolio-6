@@ -27,13 +27,13 @@ body {
   width: 100%;
   height: 100%;
   z-index: -2;
-  background: linear-gradient(45deg, 
+  /* background: linear-gradient(45deg, 
     rgba(0, 20, 40, 0.9) 0%, 
     rgba(0, 40, 80, 0.8) 25%, 
     rgba(0, 60, 120, 0.7) 50%, 
     rgba(0, 80, 160, 0.6) 75%, 
     rgba(0, 100, 200, 0.5) 100%);
-  animation: backgroundShift 20s ease-in-out infinite;
+  animation: backgroundShift 20s ease-in-out infinite; */
 }
 
 @keyframes backgroundShift {
